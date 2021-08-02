@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-calculator/static/css/main.88b6ef72.chunk.css",
+    "main.js": "/react-calculator/static/js/main.568a95a7.chunk.js",
+    "main.js.map": "/react-calculator/static/js/main.568a95a7.chunk.js.map",
+    "runtime-main.js": "/react-calculator/static/js/runtime-main.f7395d93.js",
+    "runtime-main.js.map": "/react-calculator/static/js/runtime-main.f7395d93.js.map",
+    "static/css/2.dc946c48.chunk.css": "/react-calculator/static/css/2.dc946c48.chunk.css",
+    "static/js/2.b6756de1.chunk.js": "/react-calculator/static/js/2.b6756de1.chunk.js",
+    "static/js/2.b6756de1.chunk.js.map": "/react-calculator/static/js/2.b6756de1.chunk.js.map",
+    "static/js/3.33d35284.chunk.js": "/react-calculator/static/js/3.33d35284.chunk.js",
+    "static/js/3.33d35284.chunk.js.map": "/react-calculator/static/js/3.33d35284.chunk.js.map",
+    "index.html": "/react-calculator/index.html",
+    "static/css/2.dc946c48.chunk.css.map": "/react-calculator/static/css/2.dc946c48.chunk.css.map",
+    "static/css/main.88b6ef72.chunk.css.map": "/react-calculator/static/css/main.88b6ef72.chunk.css.map",
+    "static/js/2.b6756de1.chunk.js.LICENSE.txt": "/react-calculator/static/js/2.b6756de1.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-calculator/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.31d6cfe0.svg": "/react-calculator/static/media/logo.31d6cfe0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7395d93.js",
+    "static/css/2.dc946c48.chunk.css",
+    "static/js/2.b6756de1.chunk.js",
+    "static/css/main.88b6ef72.chunk.css",
+    "static/js/main.568a95a7.chunk.js"
+  ]
+}
